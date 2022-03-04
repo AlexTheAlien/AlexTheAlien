@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Alex</h1>
-<h3 align="center">An Azure Cloud Technician from Houston, Texas</h3>
+<h3 align="center">An Azure Cloud Technician from Houston, Texas 🤠</h3>
 
 - 🌱 I’m currently learning **Azure, because the learning never stops!**
 
