@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋 I'm Alex</h1>
 <h3 align="center">An Azure Cloud Technician from Houston, Texas</h3>
 
 - 🌱 I’m currently learning **Azure, because the learning never stops!**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/alex47/">**LinkedIn (preferred)**</a> | **alexcp.hernandez@gmail.com**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/alex47/">**LinkedIn (preferred)**</a> | **alexcp.hernandez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
